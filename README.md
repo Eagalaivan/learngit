@@ -1,2 +1,2 @@
 # learngit
-imma learn git
+imma learn git fr nocap
